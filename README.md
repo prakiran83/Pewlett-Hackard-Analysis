@@ -26,9 +26,14 @@ The 4 takeaways that I can gather after reviewing above tables are:
 
 ## Summary
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
 Currently, we are looking 90,398 roles that can be vaccated at any moment. In order to negate the impact of "silver tsunami," we have to strategies on how to hire externally.
+
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-Like I mwntioned above, we need to strategize for external hiring because there are not enough people to mentor internally. There are 1549 possible candidates in contrast to 90,398 roles that can be vacated.
+
+
+Like I mentioned above, we need to strategize for external hiring because there are not enough people to mentor internally. There are 1549 possible candidates in contrast to 90,398 roles that can be vacated.
 Two additional queries:
 1. Create a query with a list of people who are retiring at the end of the current year and also for each following years. 
 2. Create a query that groups employees who are mentor-eligible with position titles so that we can determine how many employees can be mentored by a particular mentor.
